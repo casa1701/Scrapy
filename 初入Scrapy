@@ -1,0 +1,13 @@
+#字面上的内容就不记录了。
+1.安装，pip安装正常情况是会把所需要的库一起安装。win10下面是这样子，记得最早用的win7，那个悲催啊，一边百度一边安装...
+(也有可能，咱的win7不是亲生的.哈哈)
+pip install scrapy
+
+2.测试安装是否成功
+>>>import scrapy
+>>>scrapy.version_info
+也可以
+scrapy --V
+会显示版本号了。就OK了
+
+
